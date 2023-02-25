@@ -14,6 +14,10 @@ rewards:We consider a negative number (not too big) for w. (Because our goal is 
 
 Goal state: reaching t while the shortest path has been traveled so that all f's have been visited.
 
+### answer:
+![image](https://user-images.githubusercontent.com/83788223/221373203-803fa970-c1bd-4330-bdc4-6a0995d9a7b3.png)
+
+
 ## implementing
 algorithm:\
 ![image](https://user-images.githubusercontent.com/83788223/221371822-8435232d-374b-407b-8c00-3b5bb0a3a82e.png)
